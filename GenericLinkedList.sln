@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericLinkedList", "GenericLinkedList\GenericLinkedList.csproj", "{9B1BE8AF-B70D-43F6-8CA1-EFB7434DA971}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEfficiency", "TestEfficiency\TestEfficiency.csproj", "{4D2950E1-F464-4DBB-B281-AE2F39E60361}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9B1BE8AF-B70D-43F6-8CA1-EFB7434DA971}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B1BE8AF-B70D-43F6-8CA1-EFB7434DA971}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B1BE8AF-B70D-43F6-8CA1-EFB7434DA971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2950E1-F464-4DBB-B281-AE2F39E60361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2950E1-F464-4DBB-B281-AE2F39E60361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2950E1-F464-4DBB-B281-AE2F39E60361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2950E1-F464-4DBB-B281-AE2F39E60361}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
