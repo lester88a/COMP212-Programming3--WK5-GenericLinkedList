@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericLinkedList", "Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEfficiency", "TestEfficiency\TestEfficiency.csproj", "{4D2950E1-F464-4DBB-B281-AE2F39E60361}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomeLinkedList", "CustomeLinkedList\CustomeLinkedList.csproj", "{104FBDA9-CCE5-419D-8179-C342C93C1614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4D2950E1-F464-4DBB-B281-AE2F39E60361}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D2950E1-F464-4DBB-B281-AE2F39E60361}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D2950E1-F464-4DBB-B281-AE2F39E60361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104FBDA9-CCE5-419D-8179-C342C93C1614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104FBDA9-CCE5-419D-8179-C342C93C1614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104FBDA9-CCE5-419D-8179-C342C93C1614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104FBDA9-CCE5-419D-8179-C342C93C1614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
